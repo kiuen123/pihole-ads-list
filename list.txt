@@ -1,2 +1,4 @@
 https://ad.doubleclick.net/
 http://ad.doubleclick.net/
+https://adclick.g.doubleclick.net/
+http://adclick.g.doubleclick.net/
